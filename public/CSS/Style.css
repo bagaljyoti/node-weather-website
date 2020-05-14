@@ -4,7 +4,7 @@ body{
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
-
+    
     display:flex;
     flex-direction: column;
     min-height: 100vh;
@@ -46,4 +46,9 @@ button{
     background: #888888;
     color: white;
     padding: 8px;
+}
+
+.title{
+   
+    display: flex;
 }
