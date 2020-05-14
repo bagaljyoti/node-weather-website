@@ -84,7 +84,7 @@ app.get('/product',(req,res) => {
 app.get('/help',(req,res) => {
     res.render('help', {
         msg:'Help Messege',
-        title:'HELP',
+        title:'Help',
         name: 'Jyoti Bagal'
     })
 })
